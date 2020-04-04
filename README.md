@@ -27,6 +27,6 @@
           but the second ptr starts its path from 1 + cycle's len element (not index).
           they meet in the start of the cycle.
           
-  time complexity estimation: o(n)
+  time complexity estimation: O(n)
   
-  memory complexity estimation: o(1)
+  memory complexity estimation: O(1)
