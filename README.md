@@ -26,3 +26,6 @@
           for that it uses 2 ptr: the first and the second ptr go throught the list with step 1,
           but the second ptr starts its path from 1 + cycle's len element (not index).
           they meet in the start of the cycle.
+          
+  time complexity estimation: o(n)
+  memory complexity estimation: o(1)
