@@ -1,7 +1,5 @@
 # cycle_start
 
-  this is a task for the intership in JB
-
   the task is to code a function 'cycleStart' that find a start of the cycle in list and returns it.
   if there is no cycle, it returns NULL
 
